@@ -2,7 +2,7 @@
 
 A web application that helps a cardholder check whether a card transaction looks like fraud. It never asks for a card number, CVV, PIN or any personal details. The result is one of three categories: **Genuine**, **Review** or **Fraud**, with an estimated fraud probability.
 
-**Live demo:** _add your Vercel link here_
+**Live demo:** https://creditcardfrauddetectionfinal-92arn1yaa-cc-fraud-detection.vercel.app
 
 ## How it works
 
