@@ -76,5 +76,9 @@ Push to GitHub, then import the repository at vercel.com/new (framework preset: 
 
 ## Team
 
-Addepalli Sreekar, Adepoju Sandeep Chary, Bushipaka Vamshi, Nara Abhirama
-Guide: Ms. V. Veda Sri, Assistant Professor, CSE (AI & ML), Samskruti College of Engineering & Technology, Hyderabad
+Addepalli Sreekar
+Adepoju Sandeep Chary
+Bushipaka Vamshi
+Nara Abhirama
+Guide: Ms. V. Veda Sri, Assistant Professor
+CSE (AI & ML), Samskruti College of Engineering & Technology, Hyderabad
