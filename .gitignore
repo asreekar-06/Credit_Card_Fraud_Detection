@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vercel/
+.env
+.DS_Store
+*.log
+data/
+*.zip
+public/sample_transactions_v2.csv
